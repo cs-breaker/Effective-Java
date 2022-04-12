@@ -18,3 +18,8 @@
 | [[아이템 1] 생성자 대신 정적 팩터리 메서드를 고려하라](https://github.com/cs-breaker/Effective-Java/blob/main/Chapter2/20220409-ITEM-1.md) | 박성민 | 2022-04-09 | 
 | [[아이템 2] 생성자에 매개변수가 많다면 빌더를 고려하라](https://github.com/cs-breaker/Effective-Java/blob/main/Chapter2/20220409-ITEM-2.md) | 김대희 | 2022-04-09 | 
 | [[아이템 3] private 생성자나 열거 타입으로 싱글턴임을 보증하라](https://github.com/cs-breaker/Effective-Java/blob/main/Chapter2/20220409-ITEM-3.md) | 김가영 |  2022-04-09| 
+|  |  |  | 
+| [[아이템 5] 자원을 직접 명시하지 말고 의존 객체 주입을 사용하라](https://github.com/cs-breaker/Effective-Java/blob/main/Chapter2/20220412-ITEM-5.md) | 김대희 | 2022-04-12 | 
+|  |  |  | 
+|  |  |  | 
+
