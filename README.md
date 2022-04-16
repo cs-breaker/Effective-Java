@@ -20,6 +20,7 @@
 | [[아이템 3] private 생성자나 열거 타입으로 싱글턴임을 보증하라](https://github.com/cs-breaker/Effective-Java/blob/main/Chapter2/20220409-ITEM-3.md) | 김가영 |  2022-04-09| 
 |  |  |  | 
 | [[아이템 5] 자원을 직접 명시하지 말고 의존 객체 주입을 사용하라](https://github.com/cs-breaker/Effective-Java/blob/main/Chapter2/20220412-ITEM-5.md) | 김대희 | 2022-04-12 | 
+| [[아이템 6] 불필요한 객체 생성을 피하라](https://github.com/cs-breaker/Effective-Java/blob/main/Chapter2/20220412-ITEM-6.md) | 김가영 | 2022-04-12 | 
 |  |  |  | 
 |  |  |  | 
 
