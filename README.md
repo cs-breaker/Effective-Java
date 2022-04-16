@@ -21,7 +21,7 @@
 |  |  |  |
 | [[아이템 5] 자원을 직접 명시하지 말고 의존 객체 주입을 사용하라](https://github.com/cs-breaker/Effective-Java/blob/main/Chapter2/20220412-ITEM-5.md) | 김대희 | 2022-04-12 |
 | [[아이템 6] 불필요한 객체 생성을 피하라](https://github.com/cs-breaker/Effective-Java/blob/main/Chapter2/20220412-ITEM-6.md) | 김가영 | 2022-04-12 |
-|  |  |  |
+| [[아이템 7] 다 쓴 객체 참조를 해제하라](https://github.com/cs-breaker/Effective-Java/blob/main/Chapter2/20220412-ITEM-7.md) | 김가영 | 2022-04-16 |
 |  |  |  |
 | [[아이템 9] try-finally 보다는 try-with-resources를 사용하라](https://github.com/cs-breaker/Effective-Java/blob/main/Chapter2/20220416-ITEM-9.md) | 박성민 | 2022-04-16 |
 
