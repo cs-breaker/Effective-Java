@@ -29,5 +29,5 @@
 | [[아이템 9] try-finally 보다는 try-with-resources를 사용하라](https://github.com/cs-breaker/Effective-Java/blob/main/Chapter2/20220416-ITEM-9.md)    | 박성민 | 2022-04-16 |
 | [[아이템 10] equals는 일반 규약을 지켜 재정의하라](https://github.com/cs-breaker/Effective-Java/blob/main/Chapter3/20220419-ITEM-10.md)              | 김대희 | 2022-04-19 |
 |                                                                                                                                                      |        |            |
-| [[아이템 12] toString을 항상 재정의하라](https://github.com/cs-breaker/Effective-Java/blob/main/Chapter2/20220419-ITEM-12.md)                        | 박성민 | 2022-04-19 |
+| [[아이템 12] toString을 항상 재정의하라](https://github.com/cs-breaker/Effective-Java/blob/main/Chapter3/20220419-ITEM-12.md)                        | 박성민 | 2022-04-19 |
 |                                                                                                                                                      |        |            |
