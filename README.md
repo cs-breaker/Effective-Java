@@ -34,6 +34,6 @@
 | [[아이템 14] Comparable을 구현할지 고려하라](https://github.com/cs-breaker/Effective-Java/blob/main/Chapter3/20220423-ITEM-14.md)                        | 김대희 | 2022-04-23 |
 | [[아이템 15] 클래스와 멤버의 접근 권한을 최소화하라](https://github.com/cs-breaker/Effective-Java/blob/main/Chapter4/20220423-ITEM-15.md) | 전종민 | 2022-04-23 |
 | [[아이템 16] public 클래스에서는 public 필드가 아닌 접근자 메서드를 사용하라](https://github.com/cs-breaker/Effective-Java/blob/main/Chapter4/20220426-ITEM-16.md)| 김대희 | 2022-04-26 |
-|                                             |        |            |
-| [[아이템 18] 상속보다는 컴포지션을 사용해라](https://github.com/cs-breaker/Effective-Java/blob/main/Chapter4/20220426-ITEM-18.md)                          | 김가영 | 2022-04-26 |
+| [[아이템 17] 변경 가능성을 최소화하라](https://github.com/cs-breaker/Effective-Java/blob/main/Chapter4/20220426-ITEM-17.md) | 전종민 | 2022-04-26 | 
+| [[아이템 18] 상속보다는 컴포지션을 사용해라](https://github.com/cs-breaker/Effective-Java/blob/main/Chapter4/20220426-ITEM-18.md) | 김가영 | 2022-04-26 |
 |                                             |        |            |
