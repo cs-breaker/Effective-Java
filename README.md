@@ -16,24 +16,25 @@
 
 ## 진행 상황 (18/90)
 
-| 내용                                                                                                                                                 | 작성자 |    일시    |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------- | :----: | :--------: |
-| [[아이템 1] 생성자 대신 정적 팩터리 메서드를 고려하라](https://github.com/cs-breaker/Effective-Java/blob/main/Chapter2/20220409-ITEM-1.md)           | 박성민 | 2022-04-09 |
-| [[아이템 2] 생성자에 매개변수가 많다면 빌더를 고려하라](https://github.com/cs-breaker/Effective-Java/blob/main/Chapter2/20220409-ITEM-2.md)          | 김대희 | 2022-04-09 |
-| [[아이템 3] private 생성자나 열거 타입으로 싱글턴임을 보증하라](https://github.com/cs-breaker/Effective-Java/blob/main/Chapter2/20220409-ITEM-3.md)  | 김가영 | 2022-04-09 |
-| [[아이템 4] 인스턴스화를 막으려거든 private 생성자를 사용하라](https://github.com/cs-breaker/Effective-Java/blob/main/Chapter2/20220412-ITEM-4.md)   | 전종민 | 2022-04-12 |
-| [[아이템 5] 자원을 직접 명시하지 말고 의존 객체 주입을 사용하라](https://github.com/cs-breaker/Effective-Java/blob/main/Chapter2/20220412-ITEM-5.md) | 김대희 | 2022-04-12 |
-| [[아이템 6] 불필요한 객체 생성을 피하라](https://github.com/cs-breaker/Effective-Java/blob/main/Chapter2/20220412-ITEM-6.md)                         | 김가영 | 2022-04-12 |
-| [[아이템 7] 다 쓴 객체 참조를 해제하라](https://github.com/cs-breaker/Effective-Java/blob/main/Chapter2/20220416-ITEM-7.md)                          | 김가영 | 2022-04-16 |
-| [[아이템 8] finalizer와 cleaner 사용을 피하라](https://github.com/cs-breaker/Effective-Java/blob/main/Chapter2/20220416-ITEM-8.md)                   | 김대희 | 2022-04-16 |
-| [[아이템 9] try-finally 보다는 try-with-resources를 사용하라](https://github.com/cs-breaker/Effective-Java/blob/main/Chapter2/20220416-ITEM-9.md)    | 박성민 | 2022-04-16 |
-| [[아이템 10] equals는 일반 규약을 지켜 재정의하라](https://github.com/cs-breaker/Effective-Java/blob/main/Chapter3/20220419-ITEM-10.md)              | 김대희 | 2022-04-19 |
-| [[아이템 11] equals를 재정의하려거든 hashCode도 재정의하라](https://github.com/cs-breaker/Effective-Java/blob/main/Chapter3/20220419-ITEM-11.md)     | 전종민 | 2022-04-19 |
-| [[아이템 12] toString을 항상 재정의하라](https://github.com/cs-breaker/Effective-Java/blob/main/Chapter3/20220419-ITEM-12.md)                        | 박성민 | 2022-04-19 |
-| [[아이템 13] clone 재정의는 주의해서 진행하라](https://github.com/cs-breaker/Effective-Java/blob/main/Chapter3/20220423-ITEM-13.md)                        | 박성민 | 2022-04-23 |
-| [[아이템 14] Comparable을 구현할지 고려하라](https://github.com/cs-breaker/Effective-Java/blob/main/Chapter3/20220423-ITEM-14.md)                        | 김대희 | 2022-04-23 |
-| [[아이템 15] 클래스와 멤버의 접근 권한을 최소화하라](https://github.com/cs-breaker/Effective-Java/blob/main/Chapter4/20220423-ITEM-15.md) | 전종민 | 2022-04-23 |
-| [[아이템 16] public 클래스에서는 public 필드가 아닌 접근자 메서드를 사용하라](https://github.com/cs-breaker/Effective-Java/blob/main/Chapter4/20220426-ITEM-16.md)| 김대희 | 2022-04-26 |
-| [[아이템 17] 변경 가능성을 최소화하라](https://github.com/cs-breaker/Effective-Java/blob/main/Chapter4/20220426-ITEM-17.md) | 전종민 | 2022-04-26 | 
-| [[아이템 18] 상속보다는 컴포지션을 사용해라](https://github.com/cs-breaker/Effective-Java/blob/main/Chapter4/20220426-ITEM-18.md) | 김가영 | 2022-04-26 |
-|                                             |        |            |
+| 내용                                                                                                                                                                  | 작성자 |    일시    |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----: | :--------: |
+| [[아이템 1] 생성자 대신 정적 팩터리 메서드를 고려하라](https://github.com/cs-breaker/Effective-Java/blob/main/Chapter2/20220409-ITEM-1.md)                            | 박성민 | 2022-04-09 |
+| [[아이템 2] 생성자에 매개변수가 많다면 빌더를 고려하라](https://github.com/cs-breaker/Effective-Java/blob/main/Chapter2/20220409-ITEM-2.md)                           | 김대희 | 2022-04-09 |
+| [[아이템 3] private 생성자나 열거 타입으로 싱글턴임을 보증하라](https://github.com/cs-breaker/Effective-Java/blob/main/Chapter2/20220409-ITEM-3.md)                   | 김가영 | 2022-04-09 |
+| [[아이템 4] 인스턴스화를 막으려거든 private 생성자를 사용하라](https://github.com/cs-breaker/Effective-Java/blob/main/Chapter2/20220412-ITEM-4.md)                    | 전종민 | 2022-04-12 |
+| [[아이템 5] 자원을 직접 명시하지 말고 의존 객체 주입을 사용하라](https://github.com/cs-breaker/Effective-Java/blob/main/Chapter2/20220412-ITEM-5.md)                  | 김대희 | 2022-04-12 |
+| [[아이템 6] 불필요한 객체 생성을 피하라](https://github.com/cs-breaker/Effective-Java/blob/main/Chapter2/20220412-ITEM-6.md)                                          | 김가영 | 2022-04-12 |
+| [[아이템 7] 다 쓴 객체 참조를 해제하라](https://github.com/cs-breaker/Effective-Java/blob/main/Chapter2/20220416-ITEM-7.md)                                           | 김가영 | 2022-04-16 |
+| [[아이템 8] finalizer와 cleaner 사용을 피하라](https://github.com/cs-breaker/Effective-Java/blob/main/Chapter2/20220416-ITEM-8.md)                                    | 김대희 | 2022-04-16 |
+| [[아이템 9] try-finally 보다는 try-with-resources를 사용하라](https://github.com/cs-breaker/Effective-Java/blob/main/Chapter2/20220416-ITEM-9.md)                     | 박성민 | 2022-04-16 |
+| [[아이템 10] equals는 일반 규약을 지켜 재정의하라](https://github.com/cs-breaker/Effective-Java/blob/main/Chapter3/20220419-ITEM-10.md)                               | 김대희 | 2022-04-19 |
+| [[아이템 11] equals를 재정의하려거든 hashCode도 재정의하라](https://github.com/cs-breaker/Effective-Java/blob/main/Chapter3/20220419-ITEM-11.md)                      | 전종민 | 2022-04-19 |
+| [[아이템 12] toString을 항상 재정의하라](https://github.com/cs-breaker/Effective-Java/blob/main/Chapter3/20220419-ITEM-12.md)                                         | 박성민 | 2022-04-19 |
+| [[아이템 13] clone 재정의는 주의해서 진행하라](https://github.com/cs-breaker/Effective-Java/blob/main/Chapter3/20220423-ITEM-13.md)                                   | 박성민 | 2022-04-23 |
+| [[아이템 14] Comparable을 구현할지 고려하라](https://github.com/cs-breaker/Effective-Java/blob/main/Chapter3/20220423-ITEM-14.md)                                     | 김대희 | 2022-04-23 |
+| [[아이템 15] 클래스와 멤버의 접근 권한을 최소화하라](https://github.com/cs-breaker/Effective-Java/blob/main/Chapter4/20220423-ITEM-15.md)                             | 전종민 | 2022-04-23 |
+| [[아이템 16] public 클래스에서는 public 필드가 아닌 접근자 메서드를 사용하라](https://github.com/cs-breaker/Effective-Java/blob/main/Chapter4/20220426-ITEM-16.md)    | 김대희 | 2022-04-26 |
+| [[아이템 17] 변경 가능성을 최소화하라](https://github.com/cs-breaker/Effective-Java/blob/main/Chapter4/20220426-ITEM-17.md)                                           | 전종민 | 2022-04-26 |
+| [[아이템 18] 상속보다는 컴포지션을 사용해라](https://github.com/cs-breaker/Effective-Java/blob/main/Chapter4/20220426-ITEM-18.md)                                     | 김가영 | 2022-04-26 |
+| [[아이템 19] 상속을 고려해 설계하고 문서화하라. 그러지 않았다면 상속을 금지하라](https://github.com/cs-breaker/Effective-Java/blob/main/Chapter4/20220503-ITEM-19.md) | 박성민 | 2022-05-03 |
+|                                                                                                                                                                       |        |            |
