@@ -1,6 +1,6 @@
 # **Effective Java 3/E Study**
 
-구성원 - [김가영](https://github.com/KimGaYeong), [김대희](https://github.com/fabiano77), [박성민](https://github.com/seongminP98), [전종민](https://github.com/wakkpu)
+구성원 - [김가영](https://github.com/KimGaYeong), [김대희](https://github.com/fabiano77), [박성민](https://github.com/seongminP98), [전종민](https://github.com/wakkpu), [오혜린](https://github.com/OhHyerin)
 
 방식 - 발표 토론
 
